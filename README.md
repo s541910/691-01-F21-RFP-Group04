@@ -83,11 +83,11 @@ For example, one wants to communicate  with a business organization
 Expected entites may include:
 
 User
-•	email
-•	password
-•	username
-•	date created
-•	date last accessed
+*	email
+*	password
+*	username
+*	date created
+*	date last accessed
 
 Organization_details
 •	Org_Id
