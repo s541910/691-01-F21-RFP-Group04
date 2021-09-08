@@ -115,15 +115,15 @@ Event
 
 ## Theme / Layout / Login Page
 
-![Example](https://raw.githubusercontent.com/Dixith1196/THE-HUNT/master/Signup.PNG)
+![Example](https://github.com/vivekd31/691-01-F21-RFP-Group04/blob/main/theme.jpg)
 
-## NW Jira
+## ERD
 
-Use NW Jira to plan your work - note the clear scheduled sprints used by this team.
+Here is the sample ER Diagram
 
-![Example](https://github.com/Rajeshwari-Rudra/GDP1/blob/master/Images/sprint1.PNG)
+![Example](https://github.com/vivekd31/691-01-F21-RFP-Group04/blob/main/ERD.png)
 
 ## Source
 
-<https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md>
+<https://github.com/vivekd31/691-01-F21-RFP-Group04/blob/main/README.md>
 
