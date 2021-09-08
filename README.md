@@ -82,33 +82,33 @@ For example, one wants to communicate  with a business organization
 
 Expected entites may include:
 
-User
-*	email
-*	password
-*	username
-*	date created
-*	date last accessed
+* User
+	*	email
+	*	password
+	*	username
+	*	date created
+	*	date last accessed
 
-Organization_details
-•	Org_Id
-•	Org_name
-•	Org_description
-•	createdAt
-•	updatedAt
+* Organization_details
+	*	Org_Id
+	*	Org_name
+	*	Org_description
+	*	createdAt
+	*	updatedAt
 
-User_organization
-•	Id
-•	Org_id
-•	userID
+* User_organization
+	*	Id
+	*	Org_id
+	*	userID
 
-Event
-•	eventId
-•	eventname
-•	eventdescrption
-•	timeofevent
-•	eventtype
-•	event_location
-•	org_id
+* Event
+	*	eventId
+	*	eventname
+	*	eventdescrption
+	*	timeofevent
+	*	eventtype
+	*	event_location
+	*	org_id
 
 
 
